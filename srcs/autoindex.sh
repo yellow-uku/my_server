@@ -7,3 +7,4 @@ else
 	echo "autoindex on"
 fi
 nginx -s reload
+
